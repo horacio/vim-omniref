@@ -25,7 +25,7 @@ Usage
 You can perform searches in Omniref in various ways.
 
 For example, you can position your cursor on a word and call `:Omniref`. You can
-select a collection of words in visual mode and then call `Omniref`. For both
+select a collection of words in visual mode and then call `:Omniref`. For both
 ways, you can prepend some keywords calling `:Omniref addtional keywords`
 
 Lastly, you can call `:Omniref` passing it a word or phrase directly, like
