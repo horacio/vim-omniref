@@ -1,4 +1,4 @@
-vim-omniref is a minimal Vim plugin for making searches on Omniref from the
+**vim-omniref** is a minimal Vim plugin for making searches on Omniref from the
 editor and opening the results in a new browser window.
 
 I plan to extend this plugin to be super best friends with Omniref, so stay tuned!
@@ -6,9 +6,10 @@ I plan to extend this plugin to be super best friends with Omniref, so stay tune
 Install
 -------
 
-You can simply put *omniref.vim* in your Vim plugins directory.
+You can simply put omniref.vim in your Vim plugins directory (usually,
+*~/.vim/plugin*).
 
-But, if you're using [Pathogen](https://github.com/tpope/vim-pathogen), which
+But if you're using [Pathogen](https://github.com/tpope/vim-pathogen), which
 I recommend wholeheartedly, please proceed like this:
 
 ```bash
